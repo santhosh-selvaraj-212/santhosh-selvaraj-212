@@ -22,6 +22,6 @@ I'm a passionate developer who loves building things that live on the web. Wheth
 
 ## 📫 Reach Me At
 - 📧 Email: [santhosh.t.selvaraj@gmail.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: [www.linkedin.com/in/santhosh-selvaraj-]
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
